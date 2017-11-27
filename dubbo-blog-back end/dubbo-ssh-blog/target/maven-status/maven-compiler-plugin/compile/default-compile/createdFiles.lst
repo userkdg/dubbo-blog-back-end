@@ -1,0 +1,15 @@
+com\isun\common\util\session\HSessionDao.class
+com\isun\common\util\base\IBaseService.class
+com\isun\common\util\base\IBaseDao.class
+com\isun\service\impl\UserServiceImpl.class
+com\isun\controller\UserController1.class
+com\isun\common\util\cfg\Hibernate4Utils.class
+com\isun\entity\AcctRole.class
+com\isun\dao\UserDao.class
+com\isun\service\IUserService.class
+com\isun\common\util\base\BaseHibernateDao.class
+com\isun\common\util\db\GenericDao.class
+com\isun\service\IDemoService.class
+com\isun\entity\AcctUser.class
+com\isun\dao\impl\UserDaoImpl.class
+com\isun\service\impl\DemoServiceImpl.class
